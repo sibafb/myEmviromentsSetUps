@@ -1,3 +1,6 @@
+# vimコマンド
+https://qiita.com/wasanx25/items/405e215447d274f49617
+
 # 警告音の消去
 https://it-blue-collar-dairy.com/mute_beep_on_ubuntu/
 
