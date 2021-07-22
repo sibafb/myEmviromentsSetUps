@@ -1,5 +1,8 @@
-# Mozcnosettei
+# 警告音の消去
+https://it-blue-collar-dairy.com/mute_beep_on_ubuntu/
 
+# Mozcの設定
+US配列の設定
 https://qiita.com/nabenabe0928/items/09affae67df9c150ad50
 
 
