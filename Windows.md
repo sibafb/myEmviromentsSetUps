@@ -9,7 +9,7 @@ https://www.fenet.jp/infla/column/engineer/powershell%E3%81%A7%E3%81%AE%E7%92%B0
 $ENV:Path.Split(";")
 C:\Windows\system32
 C:\Windows
-~~~
+...
 ```
 
 # Powershellで環境変数の追加
