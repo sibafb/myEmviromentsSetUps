@@ -68,7 +68,11 @@ sudo systemctl restart polkit.service
 
 # 自作コマンド
 
-<details><summary></summary>
+<details><summary>自作のコマンドを作成する</summary>
 https://qiita.com/yoshiken/items/2b8e6c24d6b95e65b625
+  
+  
+https://linuc.org/study/knowledge/544/
+ ___「/usr/local/bin」には、「シングルユーザモードで利用しない」かつ「RPMやdebなどのパッケージ管理システムによってシステムに管理されないコマンドやプログラム」が置かれることになります。自作のスクリプトなどはこのディレクトリに置くことが一般的です。___
 </details>
   
