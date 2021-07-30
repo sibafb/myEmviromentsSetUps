@@ -65,3 +65,10 @@ sudo systemctl restart polkit.service
 ```
 
 </details>
+
+# 自作コマンド
+
+<details><summary></summary>
+https://qiita.com/yoshiken/items/2b8e6c24d6b95e65b625
+</details>
+  
