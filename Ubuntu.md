@@ -42,6 +42,8 @@ exit
 
 [US配列の設定](https://qiita.com/nabenabe0928/items/09affae67df9c150ad50)
 
+[layoutをdefaultから変える](https://jun-networks.hatenablog.com/entry/2019/11/20/160003)
+
 # x server / リモートデスクトップ
 
 <details><summary>「カラープロファイルを作成するには認証が必要です」を消す</summary>
