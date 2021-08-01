@@ -26,11 +26,21 @@ https://qiita.com/t_kumazawa/items/cb0e28284ca74e73b036
 
 </details>
 
+<details><summary>Using GUI's with Docker</summary>
+ 
+http://wiki.ros.org/docker/Tutorials/GUI
+
+</details>
+
 # WSL2
 
 <details><summary>WSL2 + Docker(ubuntu18.04) からGUIアプリを起動</summary>
 
  参考：[WSL2 + Docker(ubuntu18.04) からGUIアプリを起動し、ついでにchromeも起動する](https://qiita.com/chilchil0/items/9c7c56ad1cdafef389c4)
+  
+```bash
+ sudo apt-get install xserver-xorg x11-apps 
+```
  
 但し、ディスプレイ設定のみ下記にした
  
