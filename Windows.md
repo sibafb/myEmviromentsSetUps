@@ -28,6 +28,29 @@ https://qiita.com/t_kumazawa/items/cb0e28284ca74e73b036
 
 # WSL2
 
+<details><summary>WSL2 + Docker(ubuntu18.04) からGUIアプリを起動</summary>
+
+ 参考：[WSL2 + Docker(ubuntu18.04) からGUIアプリを起動し、ついでにchromeも起動する](https://qiita.com/chilchil0/items/9c7c56ad1cdafef389c4)
+ 
+但し、ディスプレイ設定のみ下記にした
+ 
+```bash
+ powershell>ipconfig
+ イーサネット アダプター vEthernet (WSL):
+
+   接続固有の DNS サフィックス . . . . .:
+   リンクローカル IPv6 アドレス. . . . .: fe80::25e3:9034:20f7:e44f%62
+   IPv4 アドレス . . . . . . . . . . . .: 172.25.208.1
+   サブネット マスク . . . . . . . . . .: 255.255.240.0
+   デフォルト ゲートウェイ . . . . . . .:
+```
+ 
+ ```bash
+ wsl>export DISPLAY=172.25.208.1:0
+ ```
+ 
+ </details>
+ 
 <details><summary>デフォルトのwsl環境を変える</summary>
 
 Wslの環境一覧を表示する 
