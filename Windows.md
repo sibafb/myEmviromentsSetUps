@@ -38,7 +38,7 @@ wsl --set-default Ubuntu-20.04
  
 dockerが規定だとsudoが効かなくなる。
 ```bash
-C:\Users\siba1>wsl --list
+>wsl --list
 Linux 用 Windows サブシステム ディストリビューション:
 docker-desktop (既定)
 Ubuntu-20.04
