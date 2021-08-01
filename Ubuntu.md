@@ -66,6 +66,14 @@ sudo systemctl restart polkit.service
 
 </details>
 
+# Chrome Remote Desktop 
+
+<details><summary>Chrome リモートデスクトップ on Ubuntu</summary>
+https://qiita.com/ninose14/items/473369d76814174dd58f
+  
+ 上記手順でいったんうまくいくものの、試行錯誤しているとまた真っ暗の画面だけになる。
+</details>
+
 # 自作コマンド
 
 <details><summary>自作のコマンドを作成する</summary>
