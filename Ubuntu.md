@@ -93,7 +93,21 @@ sudo systemctl restart polkit.service
 <details><summary>Chrome リモートデスクトップ on Ubuntu</summary>
 https://qiita.com/ninose14/items/473369d76814174dd58f
   
- 上記手順でいったんうまくいくものの、試行錯誤しているとまた真っ暗の画面だけになる。
+上記手順でいったんうまくいくものの、試行錯誤しているとまた真っ暗の画面だけになる。
+</details>
+
+# kindle
+
+<details><summary>Kindleのフォント設定</summary>
+
+参考：[Kindle for PC 1.26.0 x Wine5 x Ubuntu20.04](https://qiita.com/nanbuwks/items/042235c6a07d37f1af86)
+
+上記のwinetricksだとうまくフォントファイルが入らなかったので、sudoを追加した。
+
+```bash
+sudo apt install winetricks
+```
+
 </details>
 
 # 自作コマンド
