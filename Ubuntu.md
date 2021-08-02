@@ -5,7 +5,23 @@
 https://qiita.com/wasanx25/items/405e215447d274f49617
 
 </details>
-  
+
+
+<details><summary>デフォルトで行＆モード表示</summary>
+
+参考:[初心者向け vimrcの設定方法](https://qiita.com/iwaseasahi/items/0b2da68269397906c14c)
+```shell
+vim ~/.vimrc
+```
+
+```shell
+  1 set showmode 
+  2 set number
+```
+
+
+</details>
+
 # Terminal
 
 <details><summary>警告音の消去</summary>
