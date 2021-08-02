@@ -105,7 +105,7 @@ https://qiita.com/ninose14/items/473369d76814174dd58f
 上記のwinetricksだとうまくフォントファイルが入らなかったので、sudoを追加した。
 
 ```bash
-sudo apt install winetricks
+sudo winetricks
 ```
 
 </details>
