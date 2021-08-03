@@ -133,3 +133,8 @@ Get-ChildItem -Path(
  
 </details>
  
+ <details><summary>PowerShellスクリプトへのショートカットを作成する</summary>
+ 
+ https://www.atmarkit.co.jp/fwin2k/win2ktips/1024psshrtct/psshrtct.html
+ 
+</details>
