@@ -138,3 +138,18 @@ Get-ChildItem -Path(
  https://www.atmarkit.co.jp/fwin2k/win2ktips/1024psshrtct/psshrtct.html
  
 </details>
+
+ <details><summary>Powershellでvimを使う</summary>
+ 
+ [Powershellでvimを使う](https://qiita.com/shuhoyo/items/d9966e12976275f20c24)
+ 
+```bash
+code $profile
+```
+ 
+```bash
+set-alias vi 'C:\Program Files (x86)\Vim\vim82\vim.exe'
+set-alias vim 'C:\Program Files (x86)\Vim\vim82\vim.exe'
+```
+  
+</details>
