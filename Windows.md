@@ -1,3 +1,7 @@
+# Vim
+
+[vimで作られるファイルへの対処法 .swp .un~ .*~](https://qiita.com/chihiro/items/3b8d643474f3accc9b3c)
+
 # Windows10でHHKBのUSキーボードを使う
 https://qiita.com/shun-koto/items/9b2846259092a2ca7877
 
