@@ -30,3 +30,19 @@ Mouse はこれに絞る
 画質は少し荒いが許容範囲、広角なのはいいと思ったが、広角すぎると部屋のいろいろなものが映ることを気にしなければならなくなる。
 
 [WEBカメラ eMeet C960 ウェブカメラ HD1080P](https://www.amazon.co.jp/gp/product/B07MBQ1PT3/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+
+## ヘッドセット
+簡素だが音質がいい、さり気なく丈夫と、使い勝手がいい、ヘッドセットは固定でいいと考える。KVMスイッチ側の問題と思うが、声が小さい時音をカットするのか、途切れるようだ、そのあたりの調整は必要。
+
+[ゼンハイザー PCヘッドセット ヘッドバンド型両耳式/ノイズキャンセルマイク PC 8 USB](https://www.amazon.co.jp/gp/product/B006J3CSES/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+
+## KVM スイッチ
+デスクトップのLinux環境とノートのWindows環境を切り替えるために使用、ボタン式でいいと思ったが、いまモニタ近くに設置していて切り替えのためのモニタに手を伸ばす操作がやや不便、ショートカットキー式に切り替えるか、配置の工夫をしたい。
+
+
+# ケーブルや変換器
+
+## Displayport変換
+非常に安定しており、剛性も十分。他のケーブルは熱を持つなどあったが、これに変えてから、多少あるものの基本的にはなくなった。
+
+[Mini DisplayPort-HDMI 変換アダプタ, iVANKY【1080P@60Hz/20cm】](https://www.amazon.co.jp/gp/product/B07313HSY8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 
