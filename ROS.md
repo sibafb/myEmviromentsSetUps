@@ -15,7 +15,7 @@
  ```bash
 xhost +local:root
  ```
- 下記を追加
+ 下記を追加（IPはWSlのip）
  ```bash
  export DISPLAY = 172.168.XX.XX 
  ``` 
