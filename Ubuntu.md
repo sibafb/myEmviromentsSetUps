@@ -126,4 +126,17 @@ https://linuc.org/study/knowledge/544/
   
  ___「/usr/local/bin」には、「シングルユーザモードで利用しない」かつ「RPMやdebなどのパッケージ管理システムによってシステムに管理されないコマンドやプログラム」が置かれることになります。自作のスクリプトなどはこのディレクトリに置くことが一般的です。___
 </details>
+
+# コマンドを残さないようにする
+
+<details><summary>historyにコマンドを記憶させたくない時</summary>
+
+https://qiita.com/matsuda_sinsuke/items/a29378d780bc540bedef
+
+  ```bash
+HISTCONTROL=ignorespace
+```
+
+</details>
+
   
