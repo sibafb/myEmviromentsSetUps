@@ -30,7 +30,7 @@ set number
 
 # VSCode
 
-<details><summary>VS CodeでDocker開発コンテナを便利に使おう</summary>
+<details><summary>UbuntuにVSCodeをインストールする3つの方法</summary>
 
 https://qiita.com/yoshiyasu1111/items/e21a77ed68b52cb5f7c8
 
