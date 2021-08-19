@@ -29,7 +29,13 @@ set number
 </details>
 
 # VSCode
-  
+
+<details><summary>VS CodeでDocker開発コンテナを便利に使おう</summary>
+
+https://qiita.com/yoshiyasu1111/items/e21a77ed68b52cb5f7c8
+
+</details>
+
 <details><summary>VS CodeでDocker開発コンテナを便利に使おう</summary>
 
 https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0
