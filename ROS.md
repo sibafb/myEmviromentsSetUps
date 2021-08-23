@@ -38,3 +38,12 @@ https://qiita.com/mocobt/items/726024fa1abf54d843e1
 https://qiita.com/karaage0703/items/957bdc7b4dabfc6639da
 
  </details>
+
+
+<details><summary>HARD2020: シミュレータでルンバを動かそう！</summary>
+
+https://demura.net/education/lecture/18745.html
+
+https://github.com/docofab/RoombaControlls/blob/main/ROS/scripts/install-gazebo-roomba.sh
+
+ </details>
