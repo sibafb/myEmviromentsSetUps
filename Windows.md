@@ -5,6 +5,14 @@
 # Windows10でHHKBのUSキーボードを使う
 https://qiita.com/shun-koto/items/9b2846259092a2ca7877
 
+# スタートアップ
+
+Win+Rの検索して実行画面で
+```bash
+shell::startup
+```
+で開く場所に、ショートカットファイルを置く（.batでもいいし、ショートカットでも良い
+
 # 環境変数の確認
 
 <details><summary>PowerShellでの環境変数の参照方法</summary>
