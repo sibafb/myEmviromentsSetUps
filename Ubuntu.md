@@ -1,3 +1,7 @@
+# 管理者権限の付与
+
+[【Ubuntu】ユーザ管理の方法について、ちゃんと調べてみた](https://thoames.hatenadiary.jp/entry/2020/05/22/143845)
+
 # vim
 
 <details><summary>コマンド集</summary>
