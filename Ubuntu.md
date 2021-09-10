@@ -2,6 +2,13 @@
 
 [【Ubuntu】ユーザ管理の方法について、ちゃんと調べてみた](https://thoames.hatenadiary.jp/entry/2020/05/22/143845)
 
+```shell
+sakura@ubuntu1204:~$ sudo gpasswd -a tsubaki sudo
+ユーザ tsubaki をグループ sudo に追加
+```
+
+参考：https://linux.just4fun.biz/?Ubuntu/%E8%BF%BD%E5%8A%A0%E6%B8%88%E3%81%BF%E4%B8%80%E8%88%AC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%82%92%E7%AE%A1%E7%90%86%E8%80%85%E6%A8%A9%E9%99%90%E3%81%AB%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%E3%83%BBCUI%E7%B7%A8
+
 # vim
 
 <details><summary>コマンド集</summary>
