@@ -20,6 +20,12 @@ top
 top
 ```
 
+# ファイルの所有者を再帰的に変更する
+
+```shell
+chown -R aki ~/work/change/
+```
+
 # vim
 
 <details><summary>コマンド集</summary>
