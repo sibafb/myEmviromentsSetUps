@@ -15,6 +15,11 @@ gnome
 gnome-system-monitor
 ```
 
+top
+```bash
+top
+```
+
 # vim
 
 <details><summary>コマンド集</summary>
