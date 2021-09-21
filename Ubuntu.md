@@ -186,4 +186,9 @@ HISTCONTROL=ignorespace
 
 </details>
 
-  
+# git
+
+git push でパスワードの入力を省く  
+[Gitにパスワード認証なしでPushするまでの手順](https://nishinatoshiharu.com/how-to-gitpush-with-ssh/)
+
+
