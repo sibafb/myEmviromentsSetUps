@@ -157,10 +157,15 @@ sudo winetricks
 
 <details><summary>自作のコマンドを作成する</summary>
 
+下記のパスにコマンド”command”というファイルを置くと
 ```bash
 vim /usr/local/bin/command  
 ```
-
+”command” で中身に記述したスクリプトが起動する。
+```
+command
+```
+  
 https://qiita.com/yoshiken/items/2b8e6c24d6b95e65b625
   
   
