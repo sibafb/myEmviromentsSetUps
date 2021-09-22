@@ -81,7 +81,7 @@ https://it-blue-collar-dairy.com/mute_beep_on_ubuntu/
   
 # Docker
 
-<details><summary> Docker のsudo要求を消す</summary>
+<details><summary> Docker 関連 </summary>
 
 ## Docker のsudo要求を消す
 
@@ -101,6 +101,24 @@ sudo systemctl restart docker
 exit
 ```
 
+## Dockerでホストとコンテナ間でのファイルコピー
+  
+https://qiita.com/gologo13/items/7e4e404af80377b48fd5  
+https://medium.com/veltra-engineering/how-to-copy-a-directory-using-docker-cp-command-f2c73f9ccf75
+
+コンテナからホスト
+```
+docker cp <コンテナID>:/etc/my.cnf my.cnf
+```
+ホストからコンテナ
+```
+docker cp my.cnf <コンテナID>:/etc/my.cnf
+```
+  
+ディレクトリごと
+```
+docker cp ./bar/. test4:/foo/bar
+```  
 </details>
   
 # Mozcの設定
