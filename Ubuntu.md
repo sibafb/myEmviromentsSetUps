@@ -119,7 +119,14 @@ docker cp my.cnf <コンテナID>:/etc/my.cnf
 ```
 docker cp ./bar/. test4:/foo/bar
 ```  
+## Dockerでホストのフォルダをマウントする
+  
+https://qiita.com/Yarimizu14/items/52f4859027165a805630
+  
+
+
 </details>
+
   
 # Mozcの設定
 
