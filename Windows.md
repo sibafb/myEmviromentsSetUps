@@ -5,6 +5,10 @@
 # Windows10でHHKBのUSキーボードを使う
 https://qiita.com/shun-koto/items/9b2846259092a2ca7877
 
+# キーボード配置を変更する
+
+[Change Key](https://forest.watch.impress.co.jp/library/software/changekey/)
+
 # スタートアップ
 
 Win+Rの検索して実行画面で
