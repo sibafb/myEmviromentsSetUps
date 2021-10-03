@@ -215,5 +215,7 @@ HISTCONTROL=ignorespace
 
 git push でパスワードの入力を省く  
 [Gitにパスワード認証なしでPushするまでの手順](https://nishinatoshiharu.com/how-to-gitpush-with-ssh/)
+  
+[git pushでPlease use a personal access token instead 的なエラーの解消方法](https://qiita.com/sayama0402/items/9bfb90da147396675583)
 
 
