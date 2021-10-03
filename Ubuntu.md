@@ -178,6 +178,20 @@ sudo winetricks
 
 </details>
 
+# RealVNC
+  
+ 公式からダウンロード
+  https://www.realvnc.com/en/connect/download/vnc/
+  解凍
+  ```
+  tar -zxvf XXX.tar.gz
+  ```
+  readmeの記載通りinstallのスクリプトを叩く
+  ```
+  bash ./vncinstall
+  ```
+  
+  
 # 自作コマンド
 
 <details><summary>自作のコマンドを作成する</summary>
