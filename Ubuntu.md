@@ -1,3 +1,9 @@
+# ターミナルを画面上の場所で自動起動する
+
+[ubuntuのターミナル(gnome-terminal)を指定の場所に指定サイズで表示](https://qiita.com/s-katsumata/items/2bf03de96f64ca6ab357)  
+[新しい「GNOME端末」を開いてコマンドを実行する方法](https://linuxfan.info/gnome-terminal-with-command)
+
+
 # 管理者権限の付与
 
 [【Ubuntu】ユーザ管理の方法について、ちゃんと調べてみた](https://thoames.hatenadiary.jp/entry/2020/05/22/143845)
