@@ -1,7 +1,19 @@
 # ターミナルを画面上の場所で自動起動する
 
 [ubuntuのターミナル(gnome-terminal)を指定の場所に指定サイズで表示](https://qiita.com/s-katsumata/items/2bf03de96f64ca6ab357)  
+```
+/usr/bin/gnome-terminal --geometry=20x10+400+500 --window-with-profile=default &
+```
 [新しい「GNOME端末」を開いてコマンドを実行する方法](https://linuxfan.info/gnome-terminal-with-command)
+```
+gnome-terminal -- top
+```
+上記と合わせて
+```
+/usr/bin/gnome-terminal --geometry=20x10+400+500 --window-with-profile=default -- top
+```
+
+
 
 # Terminaternのレイアウト保存
 
