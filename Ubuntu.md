@@ -3,6 +3,10 @@
 [ubuntuのターミナル(gnome-terminal)を指定の場所に指定サイズで表示](https://qiita.com/s-katsumata/items/2bf03de96f64ca6ab357)  
 [新しい「GNOME端末」を開いてコマンドを実行する方法](https://linuxfan.info/gnome-terminal-with-command)
 
+# 履歴共有化
+
+[コマンド履歴を複数の端末で「共有化」する方法【Bash・history】](https://linuxfan.info/history_share)
+
 
 # 管理者権限の付与
 
