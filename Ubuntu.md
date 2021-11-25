@@ -258,4 +258,5 @@ git push でパスワードの入力を省く
   
 [git pushでPlease use a personal access token instead 的なエラーの解消方法](https://qiita.com/sayama0402/items/9bfb90da147396675583)
 
-
+# raw現像ソフト（darktable）
+  https://software.opensuse.org/download.html?project=graphics:darktable&package=darktable
