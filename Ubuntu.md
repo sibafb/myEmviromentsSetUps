@@ -260,3 +260,5 @@ git push でパスワードの入力を省く
 
 # raw現像ソフト（darktable）
   https://software.opensuse.org/download.html?project=graphics:darktable&package=darktable
+
+　https://computer-philosopher.hatenablog.com/entry/2019/11/06/000000
