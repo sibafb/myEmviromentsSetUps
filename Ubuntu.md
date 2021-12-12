@@ -251,6 +251,12 @@ HISTCONTROL=ignorespace
 
 </details>
 
+# デスクトップアイコンの追加
+  
+  http://officesai.com/blog/2021/01/29/ubuntu20-04lts-desktop/
+  
+  xdg-open  /usr/share/applications 
+  
 # git
 
 git push でパスワードの入力を省く  
