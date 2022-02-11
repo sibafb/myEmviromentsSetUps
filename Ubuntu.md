@@ -13,7 +13,9 @@ gnome-terminal -- top
 /usr/bin/gnome-terminal --geometry=20x10+400+500 --window-with-profile=default -- top
 ```
 
+# 複数Ubuntu の起動順をGrubで設定する
 
+https://lab4ict.com/system/archives/1408
 
 # Terminaternのレイアウト保存
 
