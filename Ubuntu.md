@@ -274,3 +274,6 @@ git push でパスワードの入力を省く
   https://software.opensuse.org/download.html?project=graphics:darktable&package=darktable
 
 　https://computer-philosopher.hatenablog.com/entry/2019/11/06/000000
+
+# Ubuntu でFlashPrint
+   https://wp.developapp.net/?p=6808
