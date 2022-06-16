@@ -281,3 +281,7 @@ git push でパスワードの入力を省く
 # NVIDIA Driver Install
   
   https://www.nvidia.co.jp/Download/index.aspx?lang=jp
+
+  ```
+  sudo apt install nvidia-utils-510
+  ```
