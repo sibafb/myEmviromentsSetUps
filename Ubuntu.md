@@ -283,5 +283,6 @@ git push でパスワードの入力を省く
   https://www.nvidia.co.jp/Download/index.aspx?lang=jp
 
   ```
-  sudo apt install nvidia-utils-510
+ubuntu-drivers devices
+sudo ubuntu-drivers autoinstall
   ```
